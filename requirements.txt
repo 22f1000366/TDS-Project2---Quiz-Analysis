@@ -1,0 +1,15 @@
+fastapi
+uvicorn[standard]
+playwright
+httpx
+requests
+pydantic
+google-generativeai
+pandas
+numpy
+beautifulsoup4
+pdfplumber
+pypdf
+python-multipart
+python-dotenv
+lxml
